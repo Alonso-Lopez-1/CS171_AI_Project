@@ -1,5 +1,5 @@
-# CS171_AI_Project
-Welcome to the AI Minesweeper Solver project! This repository contains a smart AI designed to solve the classic Minesweeper game. The solver uses advanced algorithms to make decisions and efficiently uncover the game board.
+# Minesweeper AI
+Welcome to the Minesweeper AI project! This repository contains a smart AI designed to solve the classic Minesweeper game. The solver uses advanced algorithms to make decisions and efficiently uncover the game board.
 
 # Features
 - Smart Decision-Making: The AI evaluates the board and makes strategic moves to minimize the risk of triggering mines.
